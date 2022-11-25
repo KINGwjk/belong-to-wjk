@@ -10,3 +10,5 @@ char* StrCpy(char* src)
 	return dst;
 }
 Remote edit B21031515王静康
+
+********************************
